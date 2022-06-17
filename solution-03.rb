@@ -9,6 +9,8 @@ def fibonnaci(count)
     num_next
 end
 
+# Small issue with it need to check 
+# I can fix it up
 fibonnaci(0)
 fibonnaci(1)
 fibonnaci(4)
